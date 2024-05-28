@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* outline: 1px solid red; */
+}
+
+body {
+  background-color: rebeccapurple;
+  color: white;
+}
+
+main {
+  width: 90%;
+  text-align: center;
+  margin: 30px auto;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 5px;
+  border: 1px solid black;
+}
+a:hover {
+  background-color: black;
+  color: white;
+}
+
+a:active {
+  background-color: red;
+}
+h1 {
+  padding: 20px 0;
+}
+img {
+  width: 80%;
+}
+
+h2 {
+  text-align: left;
+  margin: 10px 75px;
+}
+
+p {
+  text-align: justify;
+  margin: 0 75px;
+}
+ul {
+  text-align: left;
+  margin: 0 95px;
+}
